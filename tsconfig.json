@@ -15,6 +15,5 @@
     "jsx": "preserve",
     "lib": ["dom", "dom.iterable", "esnext"]
   },
-  "include": ["./src/**/*.tsx"],
   "exclude": ["public", "node_modules"]
 }
